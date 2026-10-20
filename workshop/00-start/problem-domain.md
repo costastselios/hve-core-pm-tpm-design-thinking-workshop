@@ -5,9 +5,9 @@ Imagine these are three investment platforms you use today. Each platform works 
 > The screenshots below are fictional workshop mockups. The displayed values are fictional scenario data, not participant data.
 
 ## Broker 1 — useful detail, narrow slice
-![Broker 1 dashboard](broker-examples/broker-1/dashboard.png)
+<a href="broker-examples/broker-1/dashboard.png"><img src="broker-examples/broker-1/dashboard.png" alt="Broker 1 dashboard" width="300"></a>
 
-![Broker 1 holdings](broker-examples/broker-1/holdings.png)
+<a href="broker-examples/broker-1/holdings.png"><img src="broker-examples/broker-1/holdings.png" alt="Broker 1 holdings" width="300"></a>
 
 Ask yourself:
 - What can you tell about the investment held here?
@@ -15,11 +15,11 @@ Ask yourself:
 - What could this app not answer about everything you own elsewhere?
 
 ## Broker 2 — another isolated holding
-![Broker 2 home](broker-examples/broker-2/home.png)
+<a href="broker-examples/broker-2/home.png"><img src="broker-examples/broker-2/home.png" alt="Broker 2 home" width="300"></a>
 
-![Broker 2 holding value](broker-examples/broker-2/holdings-value.png)
+<a href="broker-examples/broker-2/holdings-value.png"><img src="broker-examples/broker-2/holdings-value.png" alt="Broker 2 holding value" width="300"></a>
 
-![Broker 2 holding shares](broker-examples/broker-2/holdings-shares.png)
+<a href="broker-examples/broker-2/holdings-shares.png"><img src="broker-examples/broker-2/holdings-shares.png" alt="Broker 2 holding shares" width="300"></a>
 
 Ask yourself:
 - What does this broker tell you about this holding?
@@ -27,11 +27,11 @@ Ask yourself:
 - If you use both brokers, where do you look to understand the combined picture?
 
 ## Broker 3 — richer experience, still only one platform
-![Broker 3 history](broker-examples/broker-3/home-ytd.png)
+<a href="broker-examples/broker-3/home-ytd.png"><img src="broker-examples/broker-3/home-ytd.png" alt="Broker 3 history" width="300"></a>
 
-![Broker 3 holdings](broker-examples/broker-3/holdings.png)
+<a href="broker-examples/broker-3/holdings.png"><img src="broker-examples/broker-3/holdings.png" alt="Broker 3 holdings" width="300"></a>
 
-![Broker 3 more holdings](broker-examples/broker-3/holdings-more.png)
+<a href="broker-examples/broker-3/holdings-more.png"><img src="broker-examples/broker-3/holdings-more.png" alt="Broker 3 more holdings" width="300"></a>
 
 Ask yourself:
 - What can you understand here that was harder in Brokers 1 and 2?
