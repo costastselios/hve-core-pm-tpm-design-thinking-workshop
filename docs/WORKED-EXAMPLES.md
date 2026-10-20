@@ -1,13 +1,8 @@
-# Worked Calibration Examples
+# Worked Examples
+**Weak BR:** “Support users well.”
 
-## Weak vs stronger business requirement
-**Weak:** “The product should support users well.”
+**Stronger BR:** “BR-001: Preserve source context for each recorded holding. Acceptance: every holding has attributable source context or an explicit unsupported state.”
 
-**Stronger:** “BR-001: Preserve the source account/platform for each recorded holding so the owner can identify where a consolidated position is held. Acceptance: every recorded holding has a source-context field or an explicitly unsupported state. Basis: approved product decision.”
+**Feature:** Inspectable holding provenance.
 
-The stronger example has a stable ID, observable outcome, acceptance boundary, and basis.
-
-## Feature vs Task
-**Feature:** “Inspectable holding provenance” — product capability.
-
-**Task:** “Create provenance API endpoint” — implementation work, outside this workshop.
+**Task:** Build provenance API endpoint. Tasks are outside this workshop.

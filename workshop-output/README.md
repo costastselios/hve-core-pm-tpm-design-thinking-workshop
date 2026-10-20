@@ -1,2 +1,2 @@
 # Workshop Output
-Use this folder for participant-created review artifacts. HVE-generated working artifacts may remain in normal HVE locations. Step 10 creates `WORKSHOP-CONFIDENCE.md` here.
+Use this folder for participant-created notes. HVE-generated artifacts may stay in normal HVE locations.

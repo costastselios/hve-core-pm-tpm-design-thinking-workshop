@@ -1,9 +1,9 @@
 # Glossary
-- **Method:** stage inside HVE Core Design Thinking. This workshop uses Methods 1–6 only.
-- **Workshop Step:** numbered instruction in this repository. Steps 7–10 happen after DT Method 6.
-- **Gate:** unresolved dependency with explicit ownership and exit evidence.
-- **Conditional candidate:** planning capability that is not a committed release Feature while a gate remains open.
-- **Canonical direction/checkpoint:** supplied baseline for reconvergence; not proof of validation.
-- **Planning baseline:** approved artifact for the next planning step; not implementation authorization.
+- **Method:** stage within HVE Design Thinking.
+- **Workshop Step:** numbered instruction in this repo.
+- **Gate:** unresolved dependency with ownership and exit evidence.
+- **Conditional candidate:** planning capability blocked by an open gate.
+- **Canonical checkpoint:** shared workshop baseline, not proof of validation.
+- **Planning baseline:** approved for the next planning step, not implementation.
 - **D/F/V:** Desirability / Feasibility / Viability.
-- **RPI:** Research / Plan / Implement, a downstream HVE engineering workflow outside this workshop.
+- **RPI:** Research / Plan / Implement; downstream engineering workflow outside this workshop.

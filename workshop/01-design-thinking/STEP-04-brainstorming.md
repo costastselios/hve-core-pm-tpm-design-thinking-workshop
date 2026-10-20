@@ -3,29 +3,19 @@
 **Agent:** DT Coach
 
 ## Your role in this step
-**Your job:** protect genuine divergence, then choose convergence. **HVE’s job:** facilitate ideation. **Do not worry about:** technical feasibility proof.
+Protect divergence, then converge.
 
 ## Do
-1. Diverge first on **Sustainable holdings and transaction maintenance**.
-2. Generate materially different ideas across effort, automation, reconciliation, and recovery. Do not rank yet.
-3. Run a second divergence round on **Trustworthy valuation and currency conversion**.
-4. During convergence, use only these three direction names so Step 5 remains your own concept work:
-   - **Adaptive Maintenance Portfolio**
-   - **Factual Portfolio Story**
-   - **Progressive Valuation Transparency**
-
-Do **not** open the full canonical concept snapshot until Step 5.
+Diverge on sustainable maintenance, then trustworthy valuation/currency conversion. During convergence use only these direction names: **Adaptive Maintenance Portfolio**, **Factual Portfolio Story**, **Progressive Valuation Transparency**. Do not open the full canonical concept yet.
 
 ## What good looks like
-You explored materially different solution philosophies before converging.
+Materially different philosophies exist before convergence.
 
 ## Stop
-Several genuine alternatives exist and the three shared direction names are selected for concept development.
+Three shared directions selected for concept development.
 
 ## Recover if needed
-```text
-Pause convergence. Generate alternatives that materially change user effort, automation, trust, or recovery. Do not rank until genuine alternatives exist.
-```
+If convergence starts too early, ask for alternatives that materially change user effort, automation, trust, or recovery.
 
 ## Next
 [Proceed to Step 5 →](STEP-05-user-concept.md)

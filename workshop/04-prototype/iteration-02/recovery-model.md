@@ -1,10 +1,4 @@
-# Iteration 2 — Recovery Model
+# Iteration 2 Recovery Model
+Explain evidence conflict first → distinguish current vs historical impact → ask whether the cause is known → known cause records missing activity → unknown cause verifies today without rewriting history → preview consequences.
 
-1. Explain the conflicting evidence first.
-2. Separate current impact from historical impact.
-3. Ask whether the cause is known.
-4. If known, record the missing activity.
-5. If unknown, verify today's holding without claiming history is repaired.
-6. Preview what changes, what does not, and what remains uncertain.
-
-**Validation status:** redesign hypothesis; not retested with representative users in the supplied evidence.
+Status: redesign hypothesis, not representative-user validated.

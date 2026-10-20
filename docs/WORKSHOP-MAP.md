@@ -1,14 +1,12 @@
 # Workshop Map
-1. **Frame:** Steps 0–1 → ambiguity to bounded problem hypothesis
-2. **Learn:** Steps 2–3 → research summaries to synthesis
-3. **Explore:** Steps 4–5 → divergent alternatives to user concept
-4. **Test & learn:** Step 6 → interactive prototypes to redesign hypothesis
-5. **Govern:** Steps 7–8 → BRD then PRD with decisions and gates
-6. **Plan:** Steps 9–10 → Epic/Feature proposal and confidence statement
+1. **Experience the problem:** Step 0 → three broker views → consolidation question
+2. **Frame:** Step 1 → bounded problem hypothesis
+3. **Learn:** Steps 2–3 → research summaries → synthesis
+4. **Explore:** Steps 4–5 → divergent alternatives → user concept
+5. **Test & learn:** Step 6 → interactive prototypes → redesign hypothesis
+6. **Govern:** Steps 7–8 → BRD → PRD with decisions/gates
+7. **Plan:** Steps 9–10 → Epic/Feature proposal → confidence statement
 
-> HVE Design Thinking Methods 7–9 are outside scope. Workshop Steps 7–10 continue after Design Thinking.
+Every step: **Role → Do → What good looks like → Stop → Recover → Next**.
 
-Every step follows: **Role → Do → What good looks like → Stop → Recover → Next**.
-
-## Next
-[Open Self-Paced Guide →](SELF-PACED-GUIDE.md)
+[Open the Self-Paced Guide →](SELF-PACED-GUIDE.md)
