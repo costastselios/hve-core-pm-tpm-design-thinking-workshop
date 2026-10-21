@@ -6,7 +6,9 @@
 Judge outcome/capability boundaries and gate status.
 
 ## Do
-Ask for Epics/Features only, preserve PRD traceability, exclude deferred scope, keep gated capabilities conditional, and create no Stories/Tasks/architecture/estimates/RPI/code. Review [worked examples](../../docs/WORKED-EXAMPLES.md).
+Before switching agents, make the **approved PRD planning baseline** from Step 8 available to Product Manager Advisor using your VS Code Copilot file-context mechanism. Include its inherited exclusions, open gates and governed dependencies; do not rely on the previous agent's chat context.
+
+Ask for Epics/Features only, preserve PRD traceability back to that approved baseline, exclude deferred scope, keep gated capabilities conditional, and create no Stories/Tasks/architecture/estimates/RPI/code. Review [worked examples](../../docs/WORKED-EXAMPLES.md).
 
 ## What good looks like
 Epics are outcomes; Features capabilities; gates visible.

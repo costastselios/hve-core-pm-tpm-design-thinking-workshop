@@ -11,8 +11,13 @@ Confirm [DT→BRD handoff](DT-TO-BRD-HANDOFF.md). Select BRD Builder and ask it 
 ## What good looks like
 Requirements are traceable/decision-backed, reviewable and honest about gates.
 
+## Approval blocker vs open governed dependency
+An **approval blocker** means the baseline is not defensible enough to approve, for example a material requirement has no evidence/decision basis or no reviewable acceptance boundary. Stop and repair it before approval.
+
+An **open governed dependency** can remain unresolved when it is explicitly recorded as a gate with ownership, affected requirements, exit evidence and a next decision trigger. For example, the final FX-rate provider may still be unresolved; if that dependency is recorded as a gate rather than assumed away, the BRD can still be approved as a planning baseline with the gate open.
+
 ## Stop
-BRD and BRD→PRD handoff have no approval blockers.
+BRD and BRD→PRD handoff have no approval blockers. Open governed dependencies may remain as explicit gates.
 
 ## Recover if needed
 If evidence is unavailable, identify it rather than reconstructing it. Repair only missing governance/traceability.

@@ -14,7 +14,13 @@
 - [ ] [Step 10 — Final review](../workshop/05-common/STEP-10-REVIEW.md)
 
 ## Natural breaks
-Pause after Steps **3, 6, or 8**. These are not time targets.
+Pause after Steps **3, 6, or 8**. These are not time targets. Before closing the chat, make sure the state needed to resume exists as a saved artifact, not only in chat.
+
+- **After Step 3:** save the current synthesis/opportunity framing, including participant differences, assumptions and open questions.
+- **After Step 6:** save your completed `workshop-output/prototype-self-test.md` and make sure the DT → BRD handoff exists as an accessible artifact.
+- **After Step 8:** save the approved PRD planning baseline, including exclusions and every inherited/open gate, so it can be attached in Step 9.
+
+Save participant-created notes in [`workshop-output/`](../workshop-output/README.md). HVE-generated artifacts may remain in their normal HVE location, but they must be saved and accessible before you pause. A chat-only output is not a resumable artifact.
 
 ## Resume
 Return to the first unchecked step. In a new Copilot chat, select the required agent, provide the latest handoff/artifact, and ask the agent to summarize only the state it can access before continuing. Never reconstruct missing evidence.
