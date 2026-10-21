@@ -4,7 +4,7 @@
 - M2: evidence sources/confidence, differences, no prevalence claims
 - M3: shared signals/tensions/participant-specific findings/open questions
 - M4: materially different alternatives before convergence
-- M5: promise/journey/action hierarchy/trust model/D-F-V/open decisions
+- M5: promise/journey/action hierarchy/trust model/D-F-V/open decisions; differences vs canonical concept recorded
 - M6: self-test separated from supplied participant evidence; redesign remains unvalidated
 ## BRD
 objective/problem; scope/exclusions; stable IDs; measurable conditions; ownership; assumptions; gates; traceability

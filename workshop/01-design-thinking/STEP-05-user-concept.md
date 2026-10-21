@@ -9,7 +9,7 @@ Make product choices and keep uncertainty explicit.
 Build the concept with DT Coach, then compare it against the [canonical concept snapshot](../03-concept-checkpoint/canonical-concept-snapshot.md). Preserve any meaningful differences from your concept as explicit decisions, alternatives, or open questions rather than silently discarding them. Then adopt the canonical concept as the shared Step 6 baseline so every participant tests the same product concept and prototype-learning results remain comparable.
 
 ## What good looks like
-Promise, journey, action hierarchy, trust model, D/F/V, open decisions and validation boundary exist.
+Promise, journey, action hierarchy, trust model, D/F/V, open decisions and validation boundary exist. Differences from the canonical concept are recorded as decisions, alternatives or open questions.
 
 ## Stop
 Method 5 is complete.

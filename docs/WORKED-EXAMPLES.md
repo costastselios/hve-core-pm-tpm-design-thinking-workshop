@@ -9,14 +9,29 @@
 
 ## Compact traceability example
 
-**Evidence:** Participant evidence indicates that manually maintained FX can reduce trust; provider coverage and licensing remain unresolved.
+IDs below are illustrative. Use the numbering from your own BRD and PRD.
+
+**Evidence:** Participant 01 (low confidence, single participant) reported that manually maintained FX reduces trust. Participant 02 wants automatic FX. These are supplied case-study signals, not prevalence claims.
+
+**Open decision (canonical concept):** FX provider coverage and licensing.
 
 **BR-002:** Portfolio valuations must retain attributable FX context rather than presenting converted values without provenance.
 
-**FR-004:** For a converted holding valuation, expose the reporting currency and recorded FX provenance/status used for that valuation.
+**FR-004** (traces to BR-002): For a converted holding valuation, expose the reporting currency and recorded FX provenance/status used for that valuation.
 
 **Epic:** Trustworthy portfolio valuation.
 
-**Feature:** Inspectable FX provenance.
+**Feature:** Inspectable FX provenance (traces to FR-004 → BR-002; conditional on GATE-001).
 
-**Inherited gate:** The production FX provider/coverage decision remains open. Keep the affected Feature conditional until the gate's owner and required exit evidence resolve it. The gate is carried forward; backlog decomposition does not close it by assumption.
+**Inherited gate record:**
+
+- **Gate ID:** GATE-001
+- **Title:** FX provider and coverage
+- **Owner:** Product Owner (name the accountable person in your artifact)
+- **Status:** Open
+- **Affected requirements/features:** BR-002, FR-004, Inspectable FX provenance
+- **Exit evidence:** Provider coverage and licensing decision for the supported currencies
+- **Next decision trigger:** Before Feature commitment for engineering planning
+- **Remaining uncertainty:** Whether all supported currencies can be valued with attributable FX at the required frequency
+
+The gate is carried forward. Backlog decomposition doesn't close it by assumption.

@@ -8,6 +8,8 @@ Your own walkthrough is a **self-test**, not representative-user research. Keep 
 ## Before you start
 Open `iteration-01/index.html` in a browser. Use the prototype itself; statement/activity-file selection is simulated inside the HTML.
 
+> **These are fixed-data click-through prototypes, not working portfolio calculators.** Both setup paths open the same pre-populated multi-broker portfolio. Manual entries and save confirmations show the interaction flow, but they don't store your inputs or recalculate holdings or history. Test whether the workflow and its consequences make sense, not whether the data is processed correctly. This limitation is separate from the **deliberately ambiguous recovery choices** in Iteration 1. That ambiguity is the thing you're testing.
+
 Record notes in `workshop-output/prototype-self-test.md` using four categories:
 - observation;
 - your interpretation;
@@ -69,9 +71,9 @@ Observe:
 3. Review all three staged cases:
    - ready activity;
    - possible duplicate;
-   - activity needing attention.
-4. Make a duplicate decision.
-5. Apply the reviewed activity.
+   - activity needing attention (choose **Review**).
+4. Make a duplicate decision: **Skip** or **Include anyway**. Watch the import summary update.
+5. Apply the reviewed activity. The button unlocks only after every staged case has a decision.
 6. Follow **Go to holding**.
 
 Observe:

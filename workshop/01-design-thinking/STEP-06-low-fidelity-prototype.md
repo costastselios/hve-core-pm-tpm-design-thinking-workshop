@@ -16,6 +16,8 @@
 2. [Open the self-test note template](../../workshop-output/prototype-self-test.md).
 3. Open `../04-prototype/iteration-01/index.html` **in a web browser**.
 
+> **Fixed-data prototypes:** both prototypes are click-throughs with a shared fictional portfolio. Inputs and save confirmations show the flow but don't recalculate anything. The [test script](../04-prototype/test-script.md) explains what to evaluate.
+
 > **Opening a prototype:** in VS Code, right-click `index.html` → **Reveal in Finder/Explorer** → double-click the file. A local HTML preview is also fine. If the page fails on first load, refresh once.
 
 ### 2. Exercise Iteration 1 end to end
