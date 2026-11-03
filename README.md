@@ -20,8 +20,7 @@ A self-paced workshop focused on the **Design Thinking lifecycle**: experience t
 ## Agents
 - **DT Coach:** Workshop Steps 1–6
 - **BRD Builder:** Workshop Step 7
-- **PRD Builder:** Workshop Step 8
-- **Product Manager Advisor:** Workshop Step 9
+- **PRD Builder:** Workshop Steps 8–9
 
 ## Scope boundary
 **HVE Design Thinking Methods 7–9 are outside this workshop. Workshop Steps 7–10 continue after Design Thinking Method 6 with BRD, PRD, Epic/Feature backlog creation, and final review.**
