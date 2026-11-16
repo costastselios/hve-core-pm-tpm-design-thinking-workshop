@@ -9,3 +9,6 @@
 
 ## Finding
 Basic navigation/import/provenance were understandable, but recovery was completed mechanically without understanding whether current state, historical activity, or both changed. Treat this as a concept-comprehension failure.
+
+---
+**← Back to:** [Step 6 — Prototype learning](../../01-design-thinking/STEP-06-low-fidelity-prototype.md) · [Workshop Map](../../../docs/WORKSHOP-MAP.md)

@@ -140,3 +140,6 @@ Answer these questions in your self-test notes:
 The intended learning loop is:
 
 > **prototype → evidence → conceptual failure → redesign hypothesis**
+
+---
+**← Back to:** [Step 6 — Prototype learning](../01-design-thinking/STEP-06-low-fidelity-prototype.md) · [Workshop Map](../../docs/WORKSHOP-MAP.md)

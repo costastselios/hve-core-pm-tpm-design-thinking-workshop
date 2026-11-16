@@ -136,4 +136,4 @@ My interaction with the prototype is not representative-user research.
 ```
 
 ## Next
-[Proceed to Step 7 — BRD →](../05-common/STEP-07-BRD.md)
+[← Previous: Step 5 — User Concept](STEP-05-user-concept.md) · [Workshop Map](../../docs/WORKSHOP-MAP.md) · [Next: Step 7 — BRD →](../05-common/STEP-07-BRD.md)

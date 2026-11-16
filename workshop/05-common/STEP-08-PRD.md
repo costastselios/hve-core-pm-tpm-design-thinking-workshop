@@ -18,4 +18,4 @@ Approved PRD baseline saved as a file, including exclusions and every inherited 
 Repair missing product/acceptance/traceability/gate structure only.
 
 ## Next
-[Proceed to Step 9 →](STEP-09-BACKLOG.md)
+[← Previous: Step 7 — BRD](STEP-07-BRD.md) · [Workshop Map](../../docs/WORKSHOP-MAP.md) · [Next: Step 9 — Epic/Feature backlog →](STEP-09-BACKLOG.md)

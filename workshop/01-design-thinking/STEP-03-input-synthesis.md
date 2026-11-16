@@ -18,4 +18,4 @@ Method 3 exit criteria are met.
 Ask DT Coach to evaluate Method 3 exit criteria and list missing content before advancing.
 
 ## Next
-[Proceed to Step 4 →](STEP-04-brainstorming.md)
+[← Previous: Step 2 — Design Research](STEP-02-design-research.md) · [Workshop Map](../../docs/WORKSHOP-MAP.md) · [Next: Step 4 — Brainstorming →](STEP-04-brainstorming.md)

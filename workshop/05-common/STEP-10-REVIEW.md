@@ -24,7 +24,7 @@ Review passes and confidence file exists.
 Return only to the artifact containing the defect; repair without inventing evidence.
 
 ## Next
-[Finish →](#reflection)
+[← Previous: Step 9 — Epic/Feature backlog](STEP-09-BACKLOG.md) · [Workshop Map](../../docs/WORKSHOP-MAP.md) · [Next: Reflection ↓](#reflection)
 
 ## Reflection
 - What did Design Thinking reveal that requirements-first work could miss?

@@ -23,4 +23,4 @@ The BRD is explicitly approved as the planning baseline. The BRD and BRD→PRD h
 If evidence is unavailable, identify it rather than reconstructing it. Repair only missing governance/traceability.
 
 ## Next
-[Proceed to Step 8 →](STEP-08-PRD.md)
+[← Previous: Step 6 — Prototype learning](../01-design-thinking/STEP-06-low-fidelity-prototype.md) · [Workshop Map](../../docs/WORKSHOP-MAP.md) · [Next: Step 8 — PRD →](STEP-08-PRD.md)
