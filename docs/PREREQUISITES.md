@@ -1,8 +1,20 @@
 # Prerequisites
 - VS Code with GitHub Copilot Chat.
+- Git (or VS Code's built-in **Git: Clone**), to clone this workshop repository as described in [Clone the workshop repository](#clone-the-workshop-repository).
 - The GitHub Copilot app or GitHub Copilot CLI, to install HVE Core.
 - The HVE Core plugin, installed as described in [Install HVE Core](#install-hve-core).
 - Agents visible: **DT Coach**, **BRD Builder**, **PRD Builder**.
+
+## Clone the workshop repository
+The agents read the workshop files and save their artifacts into your open VS Code workspace, so work from a local clone rather than browsing the files on GitHub. Do this once, before Step 0.
+
+1. Clone the repository, either from a terminal:
+   ```bash
+   git clone https://github.com/costastselios/hve-core-pm-tpm-design-thinking-workshop.git
+   ```
+   or in VS Code with **Git: Clone** from the Command Palette, pasting `https://github.com/costastselios/hve-core-pm-tpm-design-thinking-workshop.git`.
+2. In VS Code, choose **File → Open Folder…** and open the cloned `hve-core-pm-tpm-design-thinking-workshop` folder itself, not a parent folder or a single file.
+3. Confirm the Explorer shows `docs/`, `workshop/` and `workshop-output/` at the top level. Keep this folder open for the whole workshop so agents can find workshop files and saved artifacts.
 
 ## Install HVE Core
 HVE Core is distributed as a plugin: a Git repository of reusable skills and related components, including the agents this workshop uses. Install the `hve-core` plugin from the `microsoft/hve-core` marketplace source once, using either option below; it's then available in GitHub Copilot, VS Code, and Copilot CLI.
@@ -35,17 +47,6 @@ Check the agent picker in VS Code Copilot Chat. In Copilot CLI, run `/agent` and
 Use the file-context mechanism available in your VS Code Copilot Chat: for example **Add Context**, the workspace file picker/reference syntax, or drag-and-drop when supported. Verify the intended file appears in chat context before sending the prompt.
 
 If an agent is missing, or reports that it can't load a skill, stop rather than substituting another agent. Install or update the plugin as described above, or use your organization's HVE setup process. Then run **Developer: Reload Window** in VS Code and repeat this check.
-
-## Clone the workshop repository
-The agents read the workshop files and save their artifacts into your open VS Code workspace, so work from a local clone rather than browsing the files on GitHub. Do this once, before Step 0.
-
-1. Clone the repository, either from a terminal:
-   ```bash
-   git clone https://github.com/costastselios/hve-core-pm-tpm-design-thinking-workshop.git
-   ```
-   or in VS Code with **Git: Clone** from the Command Palette, pasting `https://github.com/costastselios/hve-core-pm-tpm-design-thinking-workshop.git`.
-2. In VS Code, choose **File → Open Folder…** and open the cloned `hve-core-pm-tpm-design-thinking-workshop` folder itself, not a parent folder or a single file.
-3. Confirm the Explorer shows `docs/`, `workshop/` and `workshop-output/` at the top level. Keep this folder open for the whole workshop so agents can find workshop files and saved artifacts.
 
 ## Next
 [Workshop Map →](WORKSHOP-MAP.md)

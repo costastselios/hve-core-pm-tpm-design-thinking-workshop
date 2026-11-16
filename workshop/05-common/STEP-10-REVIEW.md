@@ -23,7 +23,7 @@ Review passes and confidence file exists.
 ## Recover if needed
 Return only to the artifact containing the defect; repair without inventing evidence.
 
-## Next
+## Navigation
 [← Previous: Step 9 — Epic/Feature backlog](STEP-09-BACKLOG.md) · [Workshop Map](../../docs/WORKSHOP-MAP.md) · [Next: Reflection ↓](#reflection)
 
 ## Reflection

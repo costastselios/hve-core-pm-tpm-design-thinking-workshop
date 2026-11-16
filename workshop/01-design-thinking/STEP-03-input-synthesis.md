@@ -17,5 +17,5 @@ Method 3 exit criteria are met.
 ## Recover if needed
 Ask DT Coach to evaluate Method 3 exit criteria and list missing content before advancing.
 
-## Next
+## Navigation
 [← Previous: Step 2 — Design Research](STEP-02-design-research.md) · [Workshop Map](../../docs/WORKSHOP-MAP.md) · [Next: Step 4 — Brainstorming →](STEP-04-brainstorming.md)

@@ -23,5 +23,5 @@ Method 1 exits and DT Coach is ready for Design Research.
 ## Recover if needed
 Ask DT Coach to check Method 1 exit criteria, list what is missing, and advance only if satisfied.
 
-## Next
+## Navigation
 [← Previous: Step 0 — Problem-domain immersion](../00-start/STEP-00.md) · [Workshop Map](../../docs/WORKSHOP-MAP.md) · [Next: Step 2 — Design Research →](STEP-02-design-research.md)

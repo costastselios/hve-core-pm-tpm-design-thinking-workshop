@@ -17,5 +17,5 @@ Three shared directions selected for concept development.
 ## Recover if needed
 If convergence starts too early, ask for alternatives that materially change user effort, automation, trust, or recovery.
 
-## Next
+## Navigation
 [← Previous: Step 3 — Input Synthesis](STEP-03-input-synthesis.md) · [Workshop Map](../../docs/WORKSHOP-MAP.md) · [Next: Step 5 — User Concept →](STEP-05-user-concept.md)
