@@ -46,5 +46,5 @@ DT Coach has both records, preserves their provenance/confidence, and can advanc
 ## Recover if needed
 If DT Coach starts interpreting before confirming both files, stop it and repeat Stage B. If it stalls later, ask it to check: shared signals, participant differences, assumptions/open questions, and opportunity framing without prevalence claims.
 
-## Next
-[Proceed to Step 3 →](STEP-03-input-synthesis.md)
+## Navigation
+[← Previous: Step 1 — Scope Conversations](STEP-01-scope-conversations.md) · [Workshop Map](../../docs/WORKSHOP-MAP.md) · [Next: Step 3 — Input Synthesis →](STEP-03-input-synthesis.md)

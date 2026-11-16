@@ -12,7 +12,7 @@ A self-paced workshop focused on the **Design Thinking lifecycle**: experience t
 - Create a traceable Epic/Feature backlog without entering engineering execution.
 
 ## Start here
-1. [Check prerequisites](docs/PREREQUISITES.md).
+1. [Check prerequisites](docs/PREREQUISITES.md), including [cloning this repository and opening it as your VS Code workspace](docs/PREREQUISITES.md#clone-the-workshop-repository).
 2. [Review the workshop map](docs/WORKSHOP-MAP.md).
 3. Keep the [self-paced guide](docs/SELF-PACED-GUIDE.md) open.
 4. [Proceed to Step 0 — Problem-domain immersion](workshop/00-start/STEP-00.md).

@@ -10,3 +10,6 @@ D/F/V: desirability of factual consolidation; feasibility of coverage/import; vi
 Open: provider coverage, valuation cutoffs, fees, duplicates, corporate actions, cost basis, financial methodology, licensing, unsupported assets.
 
 Evidence-informed, not validated.
+
+---
+**← Back to:** [Step 5 — User Concept](../01-design-thinking/STEP-05-user-concept.md) · [Workshop Map](../../docs/WORKSHOP-MAP.md)

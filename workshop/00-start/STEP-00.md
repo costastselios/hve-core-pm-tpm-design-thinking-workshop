@@ -21,5 +21,5 @@ You understand the domain tension without having designed a solution or converte
 ## Recover if needed
 If you jump to a solution, return to `problem-domain.md` and answer only what each existing broker view can and cannot tell you.
 
-## Next
-[Proceed to Step 1 →](../01-design-thinking/STEP-01-scope-conversations.md)
+## Navigation
+[← Previous: Self-Paced Guide](../../docs/SELF-PACED-GUIDE.md) · [Workshop Map](../../docs/WORKSHOP-MAP.md) · [Next: Step 1 — Scope Conversations →](../01-design-thinking/STEP-01-scope-conversations.md)

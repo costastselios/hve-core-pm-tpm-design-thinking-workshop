@@ -1,4 +1,4 @@
-# Version 2.5.0
-Adds HVE Core plugin setup to the prerequisites: installing through the GitHub Copilot app or Copilot CLI, keeping it updated, and avoiding duplicate installs. Runs the Step 9 Epic/Feature proposal in a new PRD Builder chat.
+# Version 2.6.0
+Adds instructions to clone the workshop repository and open it as the VS Code workspace, and adds Previous/Next navigation across all workshop step and supporting files.
 
-Previous (2.4.0): rebuilds the low-fidelity prototypes with working import review and explicit fixed-data disclosure, and clarifies save-before-break guidance, agent handoffs, approval blockers versus open gates, the canonical-concept reconciliation, and end-to-end traceability.
+Previous (2.5.0): adds HVE Core plugin setup to the prerequisites (install through the GitHub Copilot app or Copilot CLI, keep it updated, avoid duplicate installs) and runs the Step 9 Epic/Feature proposal in a new PRD Builder chat.

@@ -19,5 +19,5 @@ Complete Epic/Feature proposal.
 ## Recover if needed
 If the agent decomposes too deeply, stop and roll back Story/Task-level items. If it starts a new PRD, revises the approved one, or offers a tracker or Functional Planner handoff, decline and restate that this step only proposes Epics/Features from the approved baseline.
 
-## Next
-[Proceed to Step 10 →](STEP-10-REVIEW.md)
+## Navigation
+[← Previous: Step 8 — PRD](STEP-08-PRD.md) · [Workshop Map](../../docs/WORKSHOP-MAP.md) · [Next: Step 10 — Final review →](STEP-10-REVIEW.md)

@@ -17,5 +17,5 @@ Method 5 is complete.
 ## Recover if needed
 Ask DT Coach to add only missing concept structure without inventing evidence.
 
-## Next
-[Proceed to Step 6 →](STEP-06-low-fidelity-prototype.md)
+## Navigation
+[← Previous: Step 4 — Brainstorming](STEP-04-brainstorming.md) · [Workshop Map](../../docs/WORKSHOP-MAP.md) · [Next: Step 6 — Prototype learning →](STEP-06-low-fidelity-prototype.md)

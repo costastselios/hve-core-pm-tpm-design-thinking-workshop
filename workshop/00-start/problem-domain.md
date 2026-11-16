@@ -254,3 +254,6 @@ The next step is not to design a dashboard. The next step is to understand the p
 - [Investor.gov — Foreign Currency Exchange](https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins/foreign)
 - [European Commission — Investment funds](https://finance.ec.europa.eu/financial-markets/financial-markets-policy/investment-funds_en)
 - [European Commission — UCITS Directive](https://finance.ec.europa.eu/regulation-and-supervision/financial-services-legislation/implementing-and-delegated-acts/undertakings-collective-investment-transferable-securities-directive_en)
+
+---
+**← Back to:** [Step 0 — Problem-domain immersion](STEP-00.md) · [Workshop Map](../../docs/WORKSHOP-MAP.md)
